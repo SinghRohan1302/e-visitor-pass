@@ -35,7 +35,7 @@ Welcome to the **Tata Steel E-Pass Visitor Login Portal**. This portal allows vi
     ```
 
 4. **Open in Browser**
-    - Navigate to `http://localhost:3000` in your web browser.
+    - Navigate to `http://localhost:5173` in your web browser.
 
 ## 🖥️ Usage
 
