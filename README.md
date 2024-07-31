@@ -57,7 +57,7 @@ We welcome contributions!
 ## 📬 Contact
 
 - **Email**: support@tatasteel.com
-- **Twitter**: [@tatasteel](https://twitter.com/tatasteel)
+- **Twitter**: [@tatasteel](https://twitter.com/TataSteelLtd)
 - **GitHub**: [Tata Steel E-Pass Portal](https://github.com/SinghRohan1302/e-visitor-pass)
 
 ---
